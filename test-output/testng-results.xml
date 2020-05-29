@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16743" started-at="2020-05-28T15:01:16Z" finished-at="2020-05-28T15:01:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16743" started-at="2020-05-28T15:01:16Z" finished-at="2020-05-28T15:01:33Z">
+      <class name="com.test.MavenActiTime.LoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.MavenActiTime.LoginTest@782663d3]" name="openBrowser" is-config="true" duration-ms="14755" started-at="2020-05-28T15:01:16Z" finished-at="2020-05-28T15:01:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.test.MavenActiTime.LoginTest@782663d3]" name="login" duration-ms="1934" started-at="2020-05-28T15:01:31Z" finished-at="2020-05-28T15:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="quitApplication()[pri:0, instance:com.test.MavenActiTime.LoginTest@782663d3]" name="quitApplication" is-config="true" duration-ms="1" started-at="2020-05-28T15:01:33Z" finished-at="2020-05-28T15:01:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitApplication -->
+      </class> <!-- com.test.MavenActiTime.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
